@@ -1,0 +1,18 @@
+#"/bin/user/python
+#perulangan for
+#module
+import os,sys,time
+from time import sleep
+
+
+ip = input ("ip target : ")
+port=input ("por : ")
+jumlah = int(input("masukkan jumlah : "))
+
+
+try:
+   for i in range(jumlah):
+       print("send virus to" + ip +"port" + port)
+   sleep(0.05)
+except KeyboardInterrupt:
+        print("selesai")
