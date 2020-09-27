@@ -1,5 +1,5 @@
 # DDOS-MANG
 DDOS-MANG
-Mau record ya om?
+Mau recode ya om?
 hati2 dosa ya(:
 
